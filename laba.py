@@ -16,5 +16,6 @@ for i in range(len(a)-1):
         fi.append(float(a[i]))
 print(fn, fi)
 
-for i in range(len(fi)):
-    print(2*math.pi*fn[i]*1.33)
+#for i in range(len(fi)):
+    #print(2*math.pi*fn[i]*1.33)
+print()
