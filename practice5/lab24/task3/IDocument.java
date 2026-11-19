@@ -1,0 +1,6 @@
+package ru.mirea.practice5.lab24.task3;
+
+public interface IDocument {
+    void Open();
+    void Exit();
+}
